@@ -1,7 +1,12 @@
 <iframe align='right' src="https://giphy.com/embed/dgWtLi9PEXrlhxdn9L" width="240" height="219" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cowsandstars-work-computer-laptop-dgWtLi9PEXrlhxdn9L"></a></p>
+
+<iframe src="https://giphy.com/embed/dgWtLi9PEXrlhxdn9L" width="240" height="219" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cowsandstars-work-computer-laptop-dgWtLi9PEXrlhxdn9L"></a></p>
+
+<iframe align='right' src="https://giphy.com/embed/dgWtLi9PEXrlhxdn9L" width="240" height="219" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 ### Hi there 👋, I'm Ömer
 
-#### Software Engineer
+### Software Engineer
 
 - 🌱 I’m currently learning **Mobile Development**
 - 📫 omergungorco@gmail.com
