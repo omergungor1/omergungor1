@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/dgWtLi9PEXrlhxdn9L/giphy.gif" align="right" width="360" height="330">
+<img src="https://media.giphy.com/media/dgWtLi9PEXrlhxdn9L/giphy.gif" align="right" width="300" height="270">
 
 ### Hi there 👋, I'm Ömer
 
@@ -22,6 +22,6 @@
   </a>
 </p>
 
----
+--- 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omergungor1&show_icons=true&locale=en&layout=compact" alt="omergungor1" /></p>
